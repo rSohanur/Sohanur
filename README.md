@@ -5,4 +5,3 @@
 🎤 "I don't follow companies—I follow challenges that shape tomorrow." — Sohanur Rahman (Shanto)
 💼 Open to Collaboration: Actively seeking collaborations on innovative cybersecurity and AI projects that drive meaningful impact.
 📫 Connect with Me: Reach out via email at itsmesohanur.ps@gmail.com
-blackwin c cpp cs go go php python java js r swift arduino bootstrap django django html electronjs flask laravel nodejs nodejs powershell puppet dotnet unrealengine unity git github gitlab nginx litespeed apache cloudflare amazon android debian docker linux mongodb mysql netbsd netjs raspberrypi redhat ubuntu burpsuite centos clion freebsd openbsd wordpress CPENT CEH CCISO CHFI
