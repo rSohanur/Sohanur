@@ -21,6 +21,7 @@
 > 💬 "The reason your system is running smoothly is simply because I haven't decided to take it down."  
 > 💬 "I don't follow companies—I follow challenges that shape tomorrow."
 
+
 ---
 
 ### 💼 Open to Collaboration
