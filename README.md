@@ -83,7 +83,12 @@ I'm actively seeking collaborations on innovative cybersecurity and AI projects 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rSohanur&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/tiers/pair-extraordinaire-gold.png" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/tiers/starstruck-gold.png" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/tiers/galaxy-brain-gold.png" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/tiers/pull-shark-gold.png" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/tiers/pull-shark-gold.png" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" />
 </p>
 
 ---
